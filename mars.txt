@@ -5,3 +5,4 @@ Mars has organic compounds
 Mars is smaller than Earth
 But the Mummy will appreciate the lack of humidity
 Mars is bigger than Earth
+We added a different line in the other copy
